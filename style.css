@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.box-1 {
+    background-color: rgb(34, 32, 32);
+    color: white;
+    border: 10px;
+
+    padding: 70px;
+    margin: 10px;
+    
+}
+
+.img-section {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    flex-grow: 1;
+    padding: 30px;
+    
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+
+#cow {
+    height: 250px;
+}
+
+footer {
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 50px;
+}
